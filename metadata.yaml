@@ -1,0 +1,26 @@
+_repo: United-States-Declaration-of-Independence_300
+creator:
+  author:
+    agent_name: Jefferson, Thomas
+    alias: United States President (1801-1809)
+    birthdate: 1743
+    deathdate: 1826
+    gutenberg_agent_id: '1638'
+    url: http://www.gutenberg.org/2009/agents/1638
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
+description: 'See also #1 - Project Gutenberg''s original version.'
+gutenberg_bookshelf: Politics
+gutenberg_issued: '1995-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '300'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+- !lcc 'JK'
+title: United States Declaration of Independence
+url: http://www.gutenberg.org/ebooks/300
