@@ -1,5 +1,5 @@
 _repo: United-States-Declaration-of-Independence_300
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'E201'
 - !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
 - !lcc 'JK'
+- GITenberg
 title: United States Declaration of Independence
 url: http://www.gutenberg.org/ebooks/300
